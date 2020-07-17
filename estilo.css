@@ -1,0 +1,60 @@
+body{
+    background: #ffffff;
+}
+.menu1,.menu2,.menu3{
+    float: right; 
+    padding:10px ;
+    width: 2%;
+}
+.menu1,.menu2{
+    margin-top: 5px;
+}
+.logo-google{
+ display: block;
+ margin-top: 150px;
+ margin-left: auto;
+ margin-right:auto ;
+ width: 10%;
+}
+
+.menu3 img{
+    width:29px;
+}
+
+.menu3 img:hover{
+    background:	rgb(175, 173, 173,.3);
+    background-size: cover;
+    border-radius: 50%;
+}
+
+.bar-search{
+    display: flex;
+    margin-left: auto;
+    margin-right: auto;
+    width: 20%;
+    height: 30px;
+    border:1px solid #dfe1e5;
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 19px;
+}
+.boton1,.boton2{
+    margin-top: 10px;
+    margin-left: 20px;
+    text-align: center;
+}
+
+
+.country{
+    display: grid;
+}
+footer{
+    margin-top: 20%;
+}
+.left li{
+    float:left;
+    margin:10px;
+}
+.right li{
+    float: right;
+    margin:10px;
+}
